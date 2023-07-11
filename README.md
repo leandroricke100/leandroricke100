@@ -14,7 +14,3 @@ Estou desenvolvendo projetos no React.
 
 My profile :arrow_right:  <a href="https://www.instagram.com/leandro_ricke/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-instagram" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroRicke)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroRicke&show_icons=true&theme=transparent)
