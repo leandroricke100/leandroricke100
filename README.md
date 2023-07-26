@@ -12,5 +12,5 @@ Olá sou o Leandro Henrique, sou um programador Front End, atualmente estou apre
 
 Estou desenvolvendo projetos no React.
 
-My profile :arrow_right:  <a href="https://www.instagram.com/leandro_ricke/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-instagram" /></a>
+<a href="https://www.instagram.com/leandro_ricke/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-instagram" /></a>
 
