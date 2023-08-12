@@ -9,5 +9,7 @@ Olá sou o <strong>Leandro Henrique</strong>, sou um programador Front End, atua
 
 Estou desenvolvendo projetos no React.
 
+<a href="https://www.linkedin.com/in/leandro-henrique-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin" /></a>
+
 <a href="https://www.instagram.com/leandro_ricke/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-instagram" /></a>
 
