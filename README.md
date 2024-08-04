@@ -8,7 +8,7 @@ Olá sou o <strong>Leandro Henrique</strong>, sou um programador Full-Stack, atu
   -  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react" />
   -  <img src="https://img.shields.io/badge/PHP-239120?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react" />
   -  <img src="https://img.shields.io/badge/Laravel-239120?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react" />
-Estou desenvolvendo projetos no React.
+Estou desenvolvendo projetos no PHP.
 
 <a href="https://www.linkedin.com/in/leandro-henrique-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin" /></a>
 
